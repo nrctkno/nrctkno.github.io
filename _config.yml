@@ -1,3 +1,4 @@
 title: Nicolas Castro
 description: Lecturas sobre ingeniería de software
-theme: jekyll-theme-slate
+permalink: /:categories/:title/
+#theme: jekyll-theme-slate

@@ -1,3 +1,9 @@
+---
+layout: post
+title: ¿Nuevo en Mac?
+categories: Tutoriales
+---
+
 # ¿Nuevo en Mac?
 
 Empleo nuevo, equipo nuevo. En esta ocasión, la compañía utiliza Mac para todo tipo de actividad, desde diseño y desarrollo hasta tareas administrativas. Yo, como humilde obrero procedente del mundo de Linux y Windows que soy, he tenido que adaptarme rápidamente a este nuevo entorno lo cual, reconozco, no ha sido tan fácil. Sin embargo, con el pasar de los días este nuevo entorno ha ido convirtiendo de un desafío en una experiencia positiva.
