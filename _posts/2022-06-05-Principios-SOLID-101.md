@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Principios SOLID 101
-categories: Diseño de sistemas
+categories: [Diseño de sistemas]
 ---
 
 El propósito de este artículo es brindar un resumen conciso sobre los tan afamados principios SOLID. Es común que se los mencione durante entrevistas de trabajo y charlas sobre buenas prácticas de implementación de código. Sin embargo, también es común que olvidemos el significado y objeto de cada uno de estos principios.

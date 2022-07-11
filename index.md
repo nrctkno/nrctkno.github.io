@@ -2,7 +2,7 @@
 
 <ul>
 {% for cat in site.categories %}
-    <li><a href="{{ cat }}">{{ cat }}</a></li>
+    <li><a href="{{ cat.url }}">{{ cat|first }}</a></li>
 {% endfor %}
 </ul>
 
