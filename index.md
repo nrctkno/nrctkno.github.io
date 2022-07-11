@@ -1,13 +1,11 @@
 # Publicaciones
 
-<!-- {{page.categories | capitalize | join: ', '}}-->
-
+<ul>
 {% for cat in site.categories %}
-    <ul>
-        {% capture category_name %}{{ category | first }}{% endcapture %}
-        <a href="{{ category_name }}">{{ category_name }}</a>
-    </ul>
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <li><a href="{{ category_name }}">{{ category_name }}</a></li>
 {% endfor %}
+</ul>
 
 {% for post in site.posts %}
   <article>
