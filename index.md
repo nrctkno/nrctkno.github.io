@@ -2,13 +2,6 @@
 title: {{ site.title }} - {{ site.description }}
 ---
 
-<ul>
-{% for cat in site.categories %}
-    <li>
-        <a href="{{ cat.url }}">{{ cat|first }}</a>
-    </li>
-{% endfor %}
-</ul>
 
 {% for post in site.posts %}
     <article>
