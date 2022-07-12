@@ -8,6 +8,8 @@ categories: Tutoriales
 
 Empleo nuevo, equipo nuevo. En esta ocasión, la compañía utiliza Mac para todo tipo de actividad, desde diseño y desarrollo hasta tareas administrativas. Yo, como humilde obrero procedente del mundo de Linux y Windows que soy, he tenido que adaptarme rápidamente a este nuevo entorno lo cual, reconozco, no ha sido tan fácil. Sin embargo, con el pasar de los días este nuevo entorno ha ido convirtiendo de un desafío en una experiencia positiva.
 
+<!--more-->
+
 El propósito de este artículo es recopilar algunos conceptos y atajos que he tenido que aprender a las apuradas, para que usted, querido lector, no deba pasar por lo mismo. Debo reconocer que, salvando las diferencias entre este S.O. y los antes mencionados, varios aspectos resultan intuitivos y no requieren de configuraciones complejas en absoluto.
 
 

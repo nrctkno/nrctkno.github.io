@@ -6,6 +6,8 @@ categories: [Diseño de sistemas]
 
 El propósito de este artículo es brindar un resumen conciso sobre los tan afamados principios SOLID. Es común que se los mencione durante entrevistas de trabajo y charlas sobre buenas prácticas de implementación de código. Sin embargo, también es común que olvidemos el significado y objeto de cada uno de estos principios.
 
+<!--more-->
+
 SOLID es, valga la redundancia, un conjunto de principios de diseño que nos alientan a crear software más mantenible, fácil de entender y flexible. De esta forma, mientras nuestras aplicaciones crecen en tamaño, podemos reducir su complejidad, ahorrándonos dolores de cabeza. Nos permiten mantener una alta cohesión (cooperación entre clases) y un bajo acoplamiento (dependencia). Los principios son:
 
 ### Single responsibility - Responsabilidad única

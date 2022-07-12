@@ -3,5 +3,7 @@
 
 @import "{{ site.theme }}";
 
-time {font-style: italic; color: #888;}
+time {font-style: italic; color: #898585;}
+
+article:not(:last-child) { border-bottom: 1px solid #cccece; }
 
