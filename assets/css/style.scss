@@ -5,5 +5,8 @@
 
 time {font-style: italic; color: #898585;}
 
-article:not(:last-child) { border-bottom: 1px solid #cccece; }
+article:not(:last-child) { border-bottom: 1px solid #e0e5e5; }
 
+time {text-align: right;}
+
+.markdown-body h1,.markdown-body h2,.markdown-body h3 {border-bottom: none;}
