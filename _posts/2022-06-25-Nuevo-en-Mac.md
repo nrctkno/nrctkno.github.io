@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Nuevo en Mac?
-categories: Tutoriales
+categories: [Tutoriales]
 ---
 
 Empleo nuevo, equipo nuevo. En esta ocasión, la compañía utiliza Mac para todo tipo de actividad, desde diseño y desarrollo hasta tareas administrativas. Yo, como humilde obrero procedente del mundo de Linux y Windows que soy, he tenido que adaptarme rápidamente a este nuevo entorno lo cual, reconozco, no ha sido tan fácil. Sin embargo, con el pasar de los días este nuevo entorno ha ido convirtiendo de un desafío en una experiencia positiva.
@@ -122,7 +122,7 @@ No recibimos notificaciones: 🍎 > System preferences > Notifications and focus
 
 ### GIT
 
-Para instalar GIT, la opción más simple es escribir GIT en una shell; aparecerá un cartel que nos pregunta si deseamos instalar command line developer tools. Tardará un rato.
+Para instalar GIT, la opción más simple es escribir `git` en una shell; aparecerá una ventana de diálogo que nos preguntará si deseamos instalar _command line developer tools_: aceptamos. Tardará un rato.
  
 ### Terminal
 
