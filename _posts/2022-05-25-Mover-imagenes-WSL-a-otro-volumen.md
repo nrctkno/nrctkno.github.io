@@ -1,8 +1,12 @@
 ---
+layout: post
 title: Mover imágenes WSL a otro volumen
+categories: [Tutoriales]
 ---
 
 Hace unos días tomé finalmente la decisión de mover las imágenes VHDX de WSL a otro volumen. Quienes lo usamos sabemos que dichas imágenes de crean por defecto en el volumen primario (usualmente c:/). Estas imágenes suelen crecer a un ritmo vertiginoso y corremos el riesgo de quedamos sin espacio en nuestra partición primaria. En una publicación anterior y para salir del paso, intenté [reducir el tamaño de dichas imágenes](https://nicolascastrodev.blogspot.com/2021/10/reducir-tamano-de-un-disco-virtual-wsl.html). Esta, sin embargo, fue una medida paleativa.
+
+<!--more-->
 
 Disponer de nuestras imágenes de WSL en otro volumen trae como beneficio adicional una mayor tolerancia a problemas con nuestra unidad principal, permitiéndonos reinstalar el sistema operativo sin perder dichas imágenes y todo el trabajo que tengamos en ellas. Mejor aún, en el caso de que dicho volumen pertenezca a un disco físico diferente, tendremos ventajas adicionales como un menor número de cuellos de botella en la unidad principal e incluso la posibilidad de mover dicho disco a otra máquina y montar nuestras imágenes en ella.
 
