@@ -16,7 +16,7 @@ title: {{ site.title }} - {{ site.description }}
     </article>
 {% endfor %}
 
----
+_________________________________________
 
 {% for page in site.pages %}
     <a href="{{ page.url }}">{{ page.title }}</a>
