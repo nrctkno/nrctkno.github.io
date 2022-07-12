@@ -20,8 +20,7 @@ title: {{ site.title }} - {{ site.description }}
   {% endfor %}
 </articles>
 
-<div><hr/>
-<br/>
+<hr/>
 
 <footer>
 {% for page in site.pages %}
