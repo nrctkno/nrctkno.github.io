@@ -1,4 +1,6 @@
-# Publicaciones
+---
+title: {{ site.title }} - {{ site.description }}
+---
 
 <ul>
 {% for cat in site.categories %}
